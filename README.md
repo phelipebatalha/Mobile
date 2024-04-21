@@ -8,14 +8,13 @@ Swipe Cima -> Pulo
 Swipe Baixo -> Deslize
 
 <h2> O jogo já cumpre 100%</h2>  
-<l1>
-  <ul>Geração Infinita do Cenário</ul>
-  <ul>Ajuste da Câmera</ul>
-  <ul>Jogador Controlável</ul>
-  <ul>Objetos que Alterem a Integridade do Player</ul>
-  <ul></ul>
-</l1> 
+<ul>
+  <li>Geração Infinita do Cenário</li>
+  <li>Ajuste da Câmera</li>
+  <li>Jogador Controlável</li>
+  <li>Objetos que Alterem a Integridade do Player</li>
+</ul> 
 <h2> O jogo ainda não cumpre 100%</h2>  
-<li>
-  <ul>Mecânica Adicional</ul>
-</l1>
+<ul>
+  <li>Mecânica Adicional</li>
+</ul>
